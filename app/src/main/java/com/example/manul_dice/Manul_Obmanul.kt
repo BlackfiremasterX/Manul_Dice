@@ -15,6 +15,7 @@ import kotlin.random.nextInt
 
 class Manul_Obmanul : AppCompatActivity() {
 
+
     private var soundPool: SoundPool? = null
     private var soundId1 = 0
     private var soundId2 = 0
